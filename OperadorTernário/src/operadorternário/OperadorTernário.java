@@ -16,7 +16,7 @@ public class OperadorTernário {
         
             int num = entrada.nextInt();
             
-            String Resp =(num>=10?"Este numero e maior ou igual a 10":"Este numero e menor que 10");
+            String Resp =((num>=10)?"Este numero e maior ou igual a 10":"Este numero e menor que 10");
                 System.out.println(Resp);
             do{    
                 System.out.println("Quer tentar novamente? (S/N)");
