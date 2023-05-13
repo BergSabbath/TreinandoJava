@@ -2,20 +2,17 @@ public class Variaveis{
 	
 	public static void main (String args[]){
 		
-		byte numero /*= 100*/;	
+		//byte, short, int, long (L) (long numero = 50520L;)
+		// float (float numero = 20.20f;), double
+		//char char letra = 'c';
+		//boolean
 		
-		numero = 120;
+		char letra = 'C';
+		boolean verifica = true;
 		
-		short numero2 = 2020;
-		
-		int numero3 = 50520;
-		
-		long numero4 = 50520L;
-		
-		System.out.println(numero);
-		System.out.println(numero2);
-		System.out.println(numero3);
-		System.out.println(numero4);
+		//System.out.println(numero);
+		// System.out.println(letra);
+		System.out.println(verifica);
 	}
 
 	

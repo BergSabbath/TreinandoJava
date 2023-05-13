@@ -1,0 +1,22 @@
+Vamos ao que interessa!
+Atalho	Funcionalidade
+Ctrl + N	Novo documento
+Ctrl + O	Abrir documento
+Ctrl + S	Salvar documento
+Ctrl + Alt + S	Salvar como
+Ctrl + W	Fechar documento
+Ctrl + A	Selecionar tudo
+Ctrl + D	Duplicar conteúdo (saiba mais)
+Ctrl + Q	Adicionar/remover comentário
+Ctrl + F	Localizar (saiba mais)
+Ctrl + G	Ir à linha (saiba mais)
+Ctrl + H	Substituir
+Ctrl + Alt + F	Recolher nível atual
+Ctrl + Alt + Shift + F	Expandir nível atual
+Ctrl + + (tecla Mais)	Aumentar zoom
+Ctrl + – (tecla Menos)	Diminuir zoom
+Ctrl + Tab	Alternar documento
+Tab	Inserir tabulação
+Shift + Tab	Remover tabulação
+F11	Tela cheia (saiba mais)
+F12	Mostrar somente código (saiba mais)
